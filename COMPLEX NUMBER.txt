@@ -9,7 +9,7 @@ class Complex
 	public:
 		Complex()
 		{
-			x=y=0;
+			x=y=11;
 		}
 		
 	    Complex operator +(Complex);
